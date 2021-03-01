@@ -1,5 +1,5 @@
 # vue-todo
 
-## Todo
+## To Do
 [✔] CRUD <br>
 [❌] Toggle
