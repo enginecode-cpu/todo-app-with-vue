@@ -1,4 +1,4 @@
 # vue-todo
 
-[✔] CRUD
+[✔] CRUD <br>
 [❌] Toggle
